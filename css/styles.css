@@ -1,0 +1,38 @@
+.a {
+    background-image: url('../img/h_img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    color: white;
+    /*possition:relative;*/
+    /*top: 100px;*/
+}
+  .ngina, img{
+    text-align: center;
+    position: relative;
+    top: 250px;
+
+}
+body{
+    overflow-x: hidden;
+    text-align: center;
+background-color: white;
+}
+.about{
+    text-align: center;
+color: black;
+}
+.services{
+    text-align: center;
+    color: black;
+
+}
+.britney{
+    background-image: url("../img/s_image.jpg");
+    height: 200px;
+}
+.b{
+
+}
+
