@@ -39,5 +39,16 @@ color: black;
     height: 80px;
 }
                                                                                                                                                                         </figure>
-                                                                                                                                                                          </figure>
+.col-md-2{
+    margin: 5px;
+    border: 1px solid #cccccc;
+    float: left;
+    width: 180px;
+    padding: 10px;
 
+                   }                                                                                                                                                                              color: black                                                                                                                                                       }                                                                                                                                                                          </figure>
+
+.jay{
+    background-image: url(''../img/c_image.jpg'');
+    background-color: white;
+    background-repeat: no-repeat;
