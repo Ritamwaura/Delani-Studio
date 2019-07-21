@@ -1,54 +1,91 @@
-.a {
-    background-image: url('../img/h_img.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 600px;
-    width: 100%;
-    color: white;
-    /*possition:relative;*/
-    /*top: 100px;*/
-}
-  .ngina, img{
+.welcome {
+    background-image:url("../images/h_img.jpg");
     text-align: center;
-    position: relative;
-    top: 250px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
-body{
-    overflow-x: hidden;
-    text-align: center;
-background-color: white;
+.welcome img:last-child{
+    padding-top: 200px;
 }
 .about{
     text-align: center;
-color: black;
 }
-.services{
+.service{
+    background-image: url("../images/s_image.jpg");
+    height: 350px;
     text-align: center;
-    color: black;
+    color: white;
+    background-repeat: no-repeat;
 
 }
-.britney{
-    background-image: url("../img/s_image.jpg");
+.contact{
+    background-image: url("../images/c_image.jpg");
+    height: 550px;
+    text-align: center;
+    color: white;
+
+
+    font-size: 14px;
+
+}
+.delani{
+    text-align: center;
+}
+.handles{
+    display: flex;
+    justify-content:center;
+
+}
+.do{
+    text-align: center;
+}
+.port{
+    box-sizing: border-box;
+    border-style:none;
+}
+.w-100{
+    padding-bottom:50px;
+
+}
+input[type=text]{
+    border:2px solid white;
+    background: transparent;
+    color: white;
+
+}
+input[type=email]{
+    border:2px solid white;
+    background:transparent;
+}
+form{
+    align-items: center;
+    margin-left: 300px;
+    width:60%;
+    padding-left:10px;
+}
+input[type=text]::placeholder{
+    color: antiquewhite;
+}
+input[type=email]::placeholder{
+    color: antiquewhite;
+}
+input[type=message]::placeholder{
+    color:white;
+
+
+}
+#message{
+    width:600px;
     height: 200px;
 }
-.b{
-
+/* .info1{
+    display: none;
 }
-.row{
-    height: 80px;
-}
-                                                                                                                                                                        </figure>
-.col-md-2{
-    margin: 5px;
-    border: 1px solid #cccccc;
-    float: left;
-    width: 180px;
-    padding: 10px;
-
-                   }                                                                                                                                                                              color: black                                                                                                                                                       }                                                                                                                                                                          </figure>
-
 .jay{
-    background-image: url(''../img/c_image.jpg'');
-    background-color: white;
-    background-repeat: no-repeat;
+    display: none;
+}
+.info3{
+    display: none;
+} */
