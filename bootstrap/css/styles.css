@@ -1,5 +1,5 @@
 .welcome {
-    background-image:url("../images/h_img.jpg");
+    background-image:url("../img/h_img.jpg");
     text-align: center;
     color: white;
     background-repeat: no-repeat;
@@ -13,7 +13,7 @@
     text-align: center;
 }
 .service{
-    background-image: url("../images/s_image.jpg");
+    background-image: url("../img/s_image.jpg");
     height: 350px;
     text-align: center;
     color: white;
@@ -21,7 +21,7 @@
 
 }
 .contact{
-    background-image: url("../images/c_image.jpg");
+    background-image: url("../img/c_image.jpg");
     height: 550px;
     text-align: center;
     color: white;
