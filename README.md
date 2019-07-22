@@ -2,9 +2,10 @@
 ## Author
 Rita mwaura
 ### Description
-we approach development and project management by understanding your goal we heip translate to solution
+We approach development and project management by understanding your goal we heip translate to solution
 #### link
-https://github.com/Ritamwaura/Delani-Studio
+This is the link to the live page of Delani-Studio
+https://ritamwaura.github.io/Delani-Studio/
 ##### license 
 MIT
 ###### Technologies
