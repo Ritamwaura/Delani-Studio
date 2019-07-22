@@ -13,12 +13,11 @@
     padding-top: 200px;
 }
 .about{
-    background-image: url("../css/assets/backgrounds/s_image.jpg");
     text-align: center;
-    color: white;
+    color: black;
 }
 .service{
-    background-image: urcssl("../img/c_image");
+    background-image: url("../css/assets/backgrounds/s_image.jpg");
     height: 350px;
     text-align: center;
     color: white;
