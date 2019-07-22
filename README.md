@@ -8,7 +8,6 @@ https://github.com/Ritamwaura/Delani-Studio
 ##### license 
 MIT
 ###### Technologies
-HTML 
 JS
 CSS
 STYLE CSS
