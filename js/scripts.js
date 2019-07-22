@@ -71,26 +71,7 @@ $(function(){
             $('.porttext',this).slideToggle('slow');
         }, function(){
             $('.porttext',this).slideToggle('slow');
-        });portimg {
-            float: right;
-            position: relative;
-            margin: 5px;
-            /*color: #333;*/
-        }
-    .portimg .porttext {
-            display: none;
-            opacity: 1;
-            background-color:rgba(255, 255, 255, 0.6);
-            width: auto;
-            position: absolute;
-            bottom: 0;
-            color: deepskyblue;
-            text-align: center;
-            font-weight: bold;
-            font-size: 30px;
-            padding: 30px;
-            height: 100%;
-        }
+        });
     });
     $("#image8").mouseover(function(){
         $("#overlay8").show();
@@ -110,4 +91,9 @@ $(function(){
         event.preventDefault();
     });
 
+});
+$('.port').hover(function(){
+    $('.porttext',this).slideToggle('slow');
+}, function(){
+    $('.porttext',this).slideToggle('slow');
 });
