@@ -2,34 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ff33bcc-9325-4105-9d47-033f102af741" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/backgrounds/c_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/backgrounds/h_img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/backgrounds/s_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logo/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mouse_click.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/portfolio/work1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/portfolio/work2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/portfolio/work3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/portfolio/work4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/portfolio/work5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/portfolio/work6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/portfolio/work7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/portfolio/work8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/services_icons/design_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/services_icons/dev_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/services_icons/product_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/behance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/dribble.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/flickr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/g_plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/pinterest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/skype.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/stumble_upon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/social_icons/you_tube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/css/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -43,29 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding>
-                <element signature="e#5467#5473#0" expanded="true" />
-                <element signature="e#5473#5479#0" expanded="true" />
-                <element signature="e#5479#5485#0" expanded="true" />
-                <element signature="e#5485#5491#0" expanded="true" />
-                <element signature="e#5491#5497#0" expanded="true" />
-                <element signature="e#5497#5503#0" expanded="true" />
-                <element signature="e#5503#5509#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="218">
+              <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="180">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -95,8 +58,8 @@
       <list>
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/bootstrap/css/styles.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -117,11 +80,6 @@
             <path>
               <item name="delani-studio" type="b2602c69:ProjectViewProjectNode" />
               <item name="delani-studio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="delani-studio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="delani-studio" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="delani-studio" type="b2602c69:ProjectViewProjectNode" />
@@ -179,15 +137,16 @@
       <workItem from="1563549936113" duration="4270000" />
       <workItem from="1563612179180" duration="21583000" />
       <workItem from="1563724825850" duration="9862000" />
-      <workItem from="1563770739808" duration="6642000" />
+      <workItem from="1563770739808" duration="7333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42357000" />
+    <option name="totallyTimeSpent" value="43048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="699" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16157855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -328,26 +287,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#5467#5473#0" expanded="true" />
-            <element signature="e#5473#5479#0" expanded="true" />
-            <element signature="e#5479#5485#0" expanded="true" />
-            <element signature="e#5485#5491#0" expanded="true" />
-            <element signature="e#5491#5497#0" expanded="true" />
-            <element signature="e#5497#5503#0" expanded="true" />
-            <element signature="e#5503#5509#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/css/assets/social_icons/dribble.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/social_icons/skype.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/social_icons/stumble_upon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/social_icons/twitter.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/mouse_click.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/portfolio/work8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/portfolio/work7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/logo/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/backgrounds/h_img.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/backgrounds/c_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/backgrounds/s_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/services_icons/product_icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/services_icons/dev_icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/services_icons/design_icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/assets/social_icons/behance.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="180">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>
