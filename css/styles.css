@@ -84,12 +84,19 @@ input[type=message]::placeholder{
     width:600px;
     height: 200px;
 }
-/* .info1{
+.info1{
     display: none;
 }
-.jay{
+. info2{
     display: none;
 }
 .info3{
     display: none;
-} */
+}
+.jay{
+    align-items: center;
+    margin-left: 300px;
+    width: 60%;
+    padding-left: 10px;
+
+}
